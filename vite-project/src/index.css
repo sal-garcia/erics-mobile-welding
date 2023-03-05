@@ -31,8 +31,20 @@ html {
   text-align: center;
 }
 
-.contact-btn {
-  /* background-color: #F5F410; */
+
+
+.black-btn{
+  color: black;
+  font-size: x-large;
+  width: 9rem;
+  height: 4rem;
+  border-radius: 15px;
+  border-style: none;
+  background-color: #e5e56e;
+}
+
+
+.white-btn{
   color: black;
   font-size: x-large;
   width: 9rem;
@@ -180,9 +192,4 @@ input {
 }
 .w-100 {
   width: 100%;
-}
-
-
-.bg-green{
-  background-color: lightgreen;
 }
