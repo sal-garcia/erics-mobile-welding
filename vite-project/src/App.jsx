@@ -1,4 +1,4 @@
-import logo from "./images/welding-logos.jpeg";
+import logo from "./images/metalworks.png";
 import Carousel from "./Carousel";
 import React, { useState } from "react";
 
